@@ -1,0 +1,15 @@
+C:\Users\MSI\Desktop\наконец-то\Timer_PR15\Timer_PR15\Timer_PR15\bin\Debug\netstandard2.0\Timer_PR15.deps.json
+C:\Users\MSI\Desktop\наконец-то\Timer_PR15\Timer_PR15\Timer_PR15\bin\Debug\netstandard2.0\Timer_PR15.dll
+C:\Users\MSI\Desktop\наконец-то\Timer_PR15\Timer_PR15\Timer_PR15\bin\Debug\netstandard2.0\ref\Timer_PR15.dll
+C:\Users\MSI\Desktop\наконец-то\Timer_PR15\Timer_PR15\Timer_PR15\bin\Debug\netstandard2.0\Timer_PR15.pdb
+C:\Users\MSI\Desktop\наконец-то\Timer_PR15\Timer_PR15\Timer_PR15\obj\Debug\netstandard2.0\Timer_PR15.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\наконец-то\Timer_PR15\Timer_PR15\Timer_PR15\obj\Debug\netstandard2.0\Timer_PR15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\наконец-то\Timer_PR15\Timer_PR15\Timer_PR15\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\MSI\Desktop\наконец-то\Timer_PR15\Timer_PR15\Timer_PR15\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\MSI\Desktop\наконец-то\Timer_PR15\Timer_PR15\Timer_PR15\obj\Debug\netstandard2.0\Timer_PR15.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\наконец-то\Timer_PR15\Timer_PR15\Timer_PR15\obj\Debug\netstandard2.0\Timer_PR15.AssemblyInfo.cs
+C:\Users\MSI\Desktop\наконец-то\Timer_PR15\Timer_PR15\Timer_PR15\obj\Debug\netstandard2.0\Timer_PR15.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\наконец-то\Timer_PR15\Timer_PR15\Timer_PR15\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\MSI\Desktop\наконец-то\Timer_PR15\Timer_PR15\Timer_PR15\obj\Debug\netstandard2.0\Timer_PR15.dll
+C:\Users\MSI\Desktop\наконец-то\Timer_PR15\Timer_PR15\Timer_PR15\obj\Debug\netstandard2.0\ref\Timer_PR15.dll
+C:\Users\MSI\Desktop\наконец-то\Timer_PR15\Timer_PR15\Timer_PR15\obj\Debug\netstandard2.0\Timer_PR15.pdb
